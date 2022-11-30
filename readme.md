@@ -27,6 +27,8 @@ vite is a blazingly fast build system for client side applications. it is a repl
 
 you can read why I prefer this over create-react-app on my blog: https://www.mostviertel.tech/blog/create-react-app-is-dead
 
+if you need server side rendering (SEO, ...) pick nextjs instead.
+
 # typescript
 
 a must have, if you build anything that should end up in production
